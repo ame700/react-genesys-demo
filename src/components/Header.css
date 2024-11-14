@@ -1,0 +1,47 @@
+.header-card {
+  display: flex;
+  align-items: center;
+
+  .card-content {
+    flex-direction: row;
+    width: 100%;
+  }
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  width: 100%;
+}
+
+.header-logo {
+  color: #FF4F1F;
+}
+
+.header-center {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  width: 100%;
+
+}
+
+.header-margin-left{
+  margin-left:10px;
+}
+
+.actions-container {
+  align-self: center;
+}
+
+
+.call-timer{
+  font-size: x-large;
+}
+
+.end-call-btn{
+  background-color: red;
+  color: white;
+  font-weight: 700;
+}
